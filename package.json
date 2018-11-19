@@ -1,0 +1,14 @@
+{
+  "name": "@pumych/npm-package-template",
+  "version": "1.0.3",
+  "description": "New package template",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "pumych"
+  ],
+  "author": "",
+  "license": "ISC"
+}

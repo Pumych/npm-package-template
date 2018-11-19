@@ -28,7 +28,9 @@ $ npm version minor
 ```
 
 ## Other
-https://packagephobia.now.sh - calculate package versions size 
-https://unpkg.com/@pumych/npm-package-template@1.0.0/ 
+https://packagephobia.now.sh - calculate package versions size
+
+https://unpkg.com/@pumych/npm-package-template@1.0.0/
+ 
 Full article here - https://medium.freecodecamp.org/how-to-make-a-beautiful-tiny-npm-package-and-publish-it-2881d4307f78
 
